@@ -1,0 +1,8 @@
+python-telegram-bot
+pytesseract
+pillow
+opencv-python-headless
+numpy
+openpyxl
+groq
+pandas
